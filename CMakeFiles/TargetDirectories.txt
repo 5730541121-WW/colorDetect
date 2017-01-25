@@ -1,0 +1,3 @@
+/Users/Wasin/Documents/Sensor tech/colorDetect/CMakeFiles/rebuild_cache.dir
+/Users/Wasin/Documents/Sensor tech/colorDetect/CMakeFiles/edit_cache.dir
+/Users/Wasin/Documents/Sensor tech/colorDetect/CMakeFiles/colorDetect.dir
